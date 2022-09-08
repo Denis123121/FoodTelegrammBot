@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RcKY9kjjDfz3Afn82lzwMNJ9uaD98q8ge8SNHiTgHeMTJJf6yTkzBkrvin8snBnX6vYg5GIqID7TgVI1Yv6RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\RiderProjects\\FoodTelegrammBot\\FoodTelegrammBot\\FoodTelegrammBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\npgsql\\7.0.0-preview.6\\npgsql.7.0.0-preview.6.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
